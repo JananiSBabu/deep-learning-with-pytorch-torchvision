@@ -8,7 +8,10 @@ Learning pytorch
 * torchvision 0.6.0 
 
 Local Machine specs - 128gb ram, NVIDIA quadro K600
-
+Found GPU0 Quadro K600 which is of cuda capability 3.0.
+PyTorch no longer supports this GPU because it is too old.
+The minimum cuda capability that we support is 3.5.
+	
 NOTE: The default version of torch vision -torchvision 0.2.2. You may run into the error "ImportError: cannot import name 'PILLOW_VERSION' from 'PIL'"
 This got fixed in torchvision 0.5.0
 
