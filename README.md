@@ -16,7 +16,7 @@ NOTE: The default version of torch vision -torchvision 0.2.2. You may run into t
 This got fixed in torchvision 0.5.0
 
 # Deep Learning with PyTorch
-This repo contains self-practiced excercises for Udacity's Deep Learning with PyTorch lesson. This lesson appears in our [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
+This repo contains self-practiced excercises for Udacity's Deep Learning with PyTorch lesson. This lesson appears in [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
 * **Part 1:** Introduction to PyTorch and using tensors
 * **Part 2:** Building fully-connected neural networks with PyTorch
